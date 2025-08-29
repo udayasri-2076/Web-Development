@@ -27,7 +27,7 @@ It demonstrates how to collect user details for payment securely and validate in
 ## 📸 Preview
 Here is how the Payment Form looks:
 
-![Payment Form Screenshot](./Screenshot%20(248).png)
+![Payment Form Screenshot](./preview.png)
 
 ## 📌 How to Run
 1. Clone this repository:
